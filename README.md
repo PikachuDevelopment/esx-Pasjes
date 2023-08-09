@@ -1,2 +1,2 @@
-# esx-Cards
-A Dutch/English Cards script using jsfour-idcard and Esx.
+# esx-Playermenu
+A Dutch/English Playermenu script using jsfour-idcard, jsfour-blindfold and Esx.
